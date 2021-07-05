@@ -1,4 +1,4 @@
-<img src="uh.png">
+<img src="uh.png" width="256" align="center">
 # manokit
 who??
 <ul>

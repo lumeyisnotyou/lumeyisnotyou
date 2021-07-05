@@ -1,2 +1,6 @@
 # manokit
-who
+who??
+
+they/them
+manokit... (https://links.lumey.dev/ref)
+bye.....

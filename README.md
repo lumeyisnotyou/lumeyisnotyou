@@ -8,5 +8,7 @@ who??
 
   <li>manokit... (https://links.lumey.dev/ref)</li>
 
-  <li>bye.....</li>
+  <li>does a lot of things with vms and such!!.....</li>
+  <li>wants to make ur life cooler!</li>
+
 </ul>

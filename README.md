@@ -1,3 +1,4 @@
+[![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumeyisnotyou)](https://github.com/anuraghazra/github-readme-stats)
 <img src="uh.png" width="256" align="right">
 
 # manokit
@@ -12,4 +13,3 @@ who??
   <li>wants to make ur life cooler!</li>
 
 </ul>
-[![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumeyisnotyou)](https://github.com/anuraghazra/github-readme-stats)

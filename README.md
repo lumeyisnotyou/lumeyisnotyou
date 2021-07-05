@@ -1,8 +1,10 @@
+<img src="manokit.png">
 # manokit
 who??
+<ul>
+  <li>they/them</li>
 
-they/them
+  <li>manokit... (https://links.lumey.dev/ref)</li>
 
-manokit... (https://links.lumey.dev/ref)
-
-bye.....
+  <li>bye.....</li>
+</ul>

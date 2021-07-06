@@ -1,4 +1,4 @@
-[![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumeyisnotyou)](https://github.com/anuraghazra/github-readme-stats)
+[![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumeyisnotyou&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img src="uh.png" width="256" align="right">
 
 # manokit

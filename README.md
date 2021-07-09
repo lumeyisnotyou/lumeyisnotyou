@@ -7,6 +7,9 @@
 
 [![IDE](https://img.shields.io/badge/Main%20IDE-GNOME%20Builder-yellow?style=for-the-badge)](https://wiki.gnome.org/Apps/Builder)
 
+[![sIDE](https://img.shields.io/badge/Secondary%20IDE-Xcode-blue?style=for-the-badge)](https://developer.apple.com) OR [![sIDE2](https://img.shields.io/badge/Secondary%20IDE-VSCode-blue?style=for-the-badge)](https://code.visualstudio.com/)
+
+
 # manokit
 
 who??

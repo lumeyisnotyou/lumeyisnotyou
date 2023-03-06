@@ -23,6 +23,9 @@ who??
 
 </ul>
 
+# Donations
+https://donate.lumey.dev/
+
 # PGP Public Key
 
 <details>

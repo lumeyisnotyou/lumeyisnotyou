@@ -1,12 +1,8 @@
 [![lumeyisnotyou's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumeyisnotyou&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumeyisnotyou&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
-<img src="uh.png" width="256" align="right">
 
-# IDE
-[![IDE](https://img.shields.io/badge/Primary%20IDE-VSCode-blue?style=for-the-badge)](https://code.visualstudio.com/)
 
-[![sIDE](https://img.shields.io/badge/Secondary%20IDE-Xcode-blue?style=for-the-badge)](https://developer.apple.com) OR [![sIDE2](https://img.shields.io/badge/TRIPENDARY%20IDE-GNOME%20Builder-yellow?style=for-the-badge)](https://wiki.gnome.org/Apps/Builder)
 
 
 
@@ -18,11 +14,16 @@ who??
 
   <li>manokit... (https://art.lumey.dev)</li>
 
-  <li>does a lot of things with vms and such!!.....</li>
-  <li>wants to make ur life cooler!</li>
+  <li>swift, JS (react & vue)</li>
+
+  <li>unprofessional homelabber</li>
 
 </ul>
 
+## IDE
+[![IDE](https://img.shields.io/badge/Primary%20IDE-VSCode-blue?style=for-the-badge)](https://code.visualstudio.com/)
+
+[![sIDE](https://img.shields.io/badge/Secondary%20IDE-Xcode-blue?style=for-the-badge)](https://developer.apple.com) OR [![sIDE2](https://img.shields.io/badge/TRIPENDARY%20IDE-GNOME%20Builder-yellow?style=for-the-badge)](https://wiki.gnome.org/Apps/Builder)
 # Donations
 https://donate.lumey.dev/
 
